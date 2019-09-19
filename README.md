@@ -1,2 +1,2 @@
 # IT-Bootcamp
-Domaći zadaci
+Homeworks from the IT Bootcamp
